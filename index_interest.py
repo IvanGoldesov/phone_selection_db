@@ -1,8 +1,7 @@
 from time import perf_counter
-from psycopg2 import Error
 from math import ceil
-import psycopg2
 from main import connection
+
            
 @connection
 def take_all_ii(cursor) -> list:
@@ -76,4 +75,3 @@ def timers(start : float) -> bool:
             return True
     else:
          return False
-

@@ -434,7 +434,7 @@ class Request_proccesing:
                             add_query += f" AND {i} = '{j}'"
                     counter += 1
             else:
-                if add_query.startwith('S'):
+                if add_query.startswith('S'):
                     add_query = f'''SELECT * from {name_table}'''
                 else:
                     add_query = f'''UPDATE {name_table} SET ii = ii+1'''
@@ -515,20 +515,21 @@ def save_responce_in_csv(path_file_request : str, get_data : list, offer_list : 
 
 
 if __name__ == '__main__':
-    """#Create and recording data from .csv file to PostgreSQL
-    c_t = create_table_string(name_table)
+    #Create and recording data from .csv file to PostgreSQL
+    """c_t = create_table_string(name_table)
     create_update_table_SQL(c_t)"""
 
-    """#Insert data into PostgreSQL from csv or by hand
-    strr = insert_data(name_table)
-    list_data = record_from_insert()
-    b = [(1362, 'Vivo V7+', 'Vivo', 'V7', 3225, 5.99, 'Yes', 720, 1440, 8, 4000, 64.0, 16.0, 24.0, 'Android', 'Yes', 'Yes', 'Yes', 2, 'Yes', 'Yes', 10990)]
+    #Insert data into PostgreSQL from csv or by hand
+    """strr = insert_data(name_table)
+    list_data = record_from_insert()"""
+    """b = [(1362, 'Vivo V7+', 'Vivo', 'V7', 3225, 5.99, 'Yes', 720, 1440, 8, 4000, 64.0, 16.0, 24.0, 'Android', 'Yes', 'Yes', 'Yes', 2, 'Yes', 'Yes', 10990)]
+    add_data_in_SQL(strr, b)"""
     #add_data_in_SQL(strr, list_data)
-    add_data_in_SQL(strr, b)
+    
 
     #Create column index interest
-    add_column_index_interest()
-    """
+    #add_column_index_interest()
+    
     
     name_table = 'mobile_csv'
     start_timer = time.perf_counter()
@@ -559,6 +560,3 @@ if __name__ == '__main__':
                     save_responce_in_csv(file, data_sheet, offer_list)
         else:
             print('The file already exists!')
-
-
-

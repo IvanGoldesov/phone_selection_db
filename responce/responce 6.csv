@@ -14,7 +14,6 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 152,Redmi Note 5,Xiaomi,Redmi Note 5,4000,5.99,Yes,1080,2160,8,3000,32.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,8699
 154,Samsung Galaxy On Max,Samsung,Galaxy On Max,3300,5.7,Yes,1080,1920,8,4000,32.0,13.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,9890
 177,Sony Xperia XZ,Sony,Xperia XZ,2900,5.2,Yes,1080,1920,4,3000,64.0,23.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,11999
-267,Redmi 7A,Xiaomi,Redmi 7A,4000,5.45,Yes,720,1440,8,2000,16.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,5499
 178,Samsung Galaxy J7 Prime,Samsung,Galaxy J7 Prime,3300,5.5,Yes,1080,1920,8,3000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,15995
 181,Xiaomi Redmi 3S Prime,Xiaomi,Redmi 3S Prime,4100,5.0,Yes,720,1280,8,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,8000
 352,Vivo V5,Vivo,V5,3000,5.5,Yes,720,1280,8,4000,32.0,13.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,16541
@@ -22,10 +21,8 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 354,Lyf F1,Lyf,F1,3200,5.5,Yes,1080,1920,8,3000,32.0,16.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,6499
 5,OnePlus 7T,OnePlus,7T,3800,6.55,Yes,1080,2400,8,8000,128.0,48.0,16.0,Android,Yes,Yes,No,2,Yes,Yes,34930
 195,Samsung Galaxy A5 (2016),Samsung,Galaxy A5 (2016),2900,5.2,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,19990
-1163,Reach Cogent,Reach,Cogent,2000,4.0,Yes,480,800,4,1000,8.0,3.2,1.3,Android,Yes,Yes,No,2,Yes,No,2200
 196,Xiaomi Redmi Note 3,Xiaomi,Redmi Note 3,4050,5.5,Yes,1080,1920,6,2000,16.0,16.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,6899
 198,BlackBerry Priv,BlackBerry,Priv,3410,5.4,Yes,1440,2560,6,3000,32.0,18.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,19999
-1243,Gionee P5W,Gionee,P5W,2000,5.0,Yes,720,1280,8,1000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,6999
 199,Google Nexus 5X,LG,Google Nexus 5X,2700,5.2,Yes,1080,1920,6,2000,16.0,12.3,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,25990
 200,Apple iPhone 6s,Apple,iPhone 6s,1715,4.7,Yes,750,1334,2,2000,16.0,12.0,5.0,iOS,Yes,Yes,Yes,1,Yes,Yes,22999
 201,Lenovo Vibe P1,Lenovo,Vibe P1,4900,5.5,Yes,1080,1920,8,2000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,15999
@@ -60,12 +57,6 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 455,Samsung Galaxy Mega 5.8,Samsung,Galaxy Mega 5.8,2600,5.8,Yes,540,960,2,1000,8.0,8.0,1.9,Android,Yes,Yes,Yes,2,Yes,No,6999
 456,Nokia Lumia 620,Nokia,Lumia 620,1300,3.8,Yes,480,800,2,512,8.0,5.0,0.3,Windows,Yes,Yes,Yes,1,Yes,No,4999
 457,Nokia Lumia 820,Nokia,Lumia 820,1650,4.3,Yes,480,800,2,1000,8.0,8.0,0.3,Windows,Yes,Yes,Yes,1,Yes,No,19660
-1074,Lava A32,Lava,A32,1500,4.0,Yes,480,800,1,256,0.512,2.0,0.3,Android,Yes,Yes,No,2,Yes,No,1999
-1089,Karbonn A91 Storm,Karbonn,A91 Storm,2200,4.0,Yes,480,800,4,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,1999
-1112,Lyf Flame 6,Lyf,Flame 6,1750,4.0,Yes,480,800,4,512,4.0,2.0,2.0,Android,Yes,Yes,No,2,Yes,Yes,1999
-1140,iBall Andi 5N Dude,iBall,Andi 5N Dude,2000,5.0,Yes,480,854,4,512,4.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,1999
-1166,Lava A52,Lava,A52,1200,4.0,Yes,480,800,2,512,4.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,1999
-1169,Lava Flair S1,Lava,Flair S1,1750,4.5,Yes,480,854,2,512,8.0,3.2,0.3,Android,Yes,Yes,Yes,2,Yes,No,1999
 458,LG Optimus G,LG,Optimus G,2100,4.7,Yes,768,1280,4,2000,32.0,13.0,1.3,Android,Yes,Yes,Yes,1,Yes,No,9999
 459,HTC One S,HTC,One S,1650,4.3,Yes,540,960,2,1000,16.0,8.0,0.3,Android,Yes,Yes,Yes,1,Yes,No,17172
 384,Motorola Moto G Turbo Edition,Motorola,Moto G Turbo Edition,2470,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,16999
@@ -160,7 +151,6 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 537,Microsoft Lumia 540 Dual SIM,Microsoft,Lumia 540 Dual SIM,2200,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Windows,Yes,Yes,Yes,2,Yes,No,7000
 539,Intex Aqua Speed HD,Intex,Aqua Speed HD,1700,4.7,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,No,2,Yes,No,7500
 540,Karbonn Titanium Mach Two S360,Karbonn,Titanium Mach Two S360,1900,5.0,Yes,720,1280,8,1000,8.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,No,7800
-2,iPhone 11 Pro Max,Apple,iPhone 11 Pro Max,3969,6.5,Yes,1242,2688,6,4000,64.0,12.0,12.0,iOS,Yes,Yes,Yes,2,Yes,Yes,106900
 541,BlackBerry Leap,BlackBerry,Leap,2800,5.0,Yes,720,1280,2,2000,16.0,8.0,2.0,BlackBerry,Yes,Yes,Yes,1,Yes,Yes,7200
 542,Asus ZenFone C (ZC451CG),Asus,ZenFone C (ZC451CG),2100,4.5,Yes,480,854,2,1000,8.0,5.0,0.3,Android,Yes,Yes,No,2,Yes,No,5499
 543,Lava Iris X8,Lava,Iris X8,2500,5.0,Yes,720,1280,8,1000,8.0,8.0,3.0,Android,Yes,Yes,Yes,2,Yes,No,8500
@@ -386,12 +376,9 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 779,Itel A20,Itel,A20,1700,4.0,Yes,480,800,4,1000,8.0,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,Yes,3749
 780,Jivi Revolution TnT3,Jivi,Revolution TnT3,2300,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,2550
 781,Panasonic Eluga I9,Panasonic,Eluga I9,2500,5.0,Yes,720,1280,4,3000,32.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,5490
-153,Jio Phone,Jio,Phone,2000,2.4,No,240,320,2,512,4.0,2.0,0.3,Cyanogen,Yes,Yes,Yes,1,No,Yes,1249
 783,Micromax Bharat 2 Plus,Micromax,Bharat 2 Plus,1600,4.0,Yes,480,800,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,2340
 784,Micromax Canvas Infinity Pro,Micromax,Canvas Infinity Pro,3000,5.7,Yes,720,1440,8,4000,64.0,20.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,6999
 786,Micromax Bharat 5,Micromax,Bharat 5,5000,5.2,Yes,720,1280,4,1000,16.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,4790
-590,LG Optimus L3 II Dual,LG,Optimus L3 II Dual,1540,3.2,Yes,240,320,1,512,4.0,3.0,0.0,Android,Yes,Yes,Yes,2,Yes,No,1999
-938,Swipe Konnect Neo 4G,Swipe,Konnect Neo 4G,2000,4.0,Yes,480,800,4,512,4.0,5.0,1.3,Android,Yes,Yes,Yes,2,Yes,Yes,1999
 787,Intex Elyt Dual,Intex,Elyt Dual,2400,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,5295
 789,Panasonic P91,Panasonic,P91,2500,5.0,Yes,720,1280,4,1000,16.0,8.0,5.0,Android,Yes,No,Yes,2,Yes,Yes,7990
 790,Infinix Zero 5,Infinix,Zero 5,4350,5.98,Yes,1080,1920,8,6000,64.0,12.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,12999
@@ -423,7 +410,6 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 821,LG K7i,LG,K7i,2500,5.0,Yes,480,854,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,4321
 822,Ziox Astra Curve 4G,Ziox,Astra Curve 4G,2200,5.0,Yes,480,854,4,2000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,3799
 824,10.or G,10.or,G,4000,5.5,Yes,1080,1920,8,3000,32.0,13.0,16.0,Android,Yes,No,Yes,2,Yes,Yes,6999
-402,Yu Yuphoria,Yu,phoria,2230,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Cyanogen,Yes,Yes,Yes,2,Yes,Yes,8999
 825,Karbonn K9 Smart Grand,Karbonn,K9 Smart Grand,2300,5.2,Yes,480,854,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,3490
 826,Intex Aqua Lions 2,Intex,Aqua Lions 2,2400,5.0,Yes,240,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,1,Yes,Yes,3890
 828,Intex Aqua S1,Intex,Aqua S1,2300,5.0,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,3299
@@ -519,6 +505,7 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 930,Motorola Moto E4,Motorola,Moto E4,2800,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,8499
 931,Micromax Evok Note,Micromax,Evok Note,4000,5.5,Yes,1080,1920,8,3000,32.0,13.0,5.0,Android,Yes,Yes,No,1,Yes,Yes,4960
 932,Zopo Color X 5.5,Zopo,Color X 5.5,2500,5.5,Yes,720,1280,4,3000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,No,No,3980
+267,Redmi 7A,Xiaomi,Redmi 7A,4000,5.45,Yes,720,1440,8,2000,16.0,12.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,5499
 933,Lephone W7,Lephone,W7,2000,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,No,Yes,4105
 934,Ziox QUIQ Flash 4G,Ziox,QUIQ Flash 4G,2450,5.0,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,3699
 935,Intex ELYT-e1,Intex,ELYT-e1,2200,5.0,Yes,720,1280,4,2000,16.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,6100
@@ -770,6 +757,7 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 1271,Samsung Galaxy On7,Samsung,Galaxy On7,3000,5.5,Yes,720,1280,4,1000,8.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,9977
 1272,Micromax Bolt Q332,Micromax,Bolt Q332,2000,5.0,Yes,480,854,4,512,2.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,2399
 1273,Samsung Galaxy On5,Samsung,Galaxy On5,2600,5.0,Yes,720,1280,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,4655
+1163,Reach Cogent,Reach,Cogent,2000,4.0,Yes,480,800,4,1000,8.0,3.2,1.3,Android,Yes,Yes,No,2,Yes,No,2200
 1164,Lava V2s,Lava,V2s,2500,5.0,Yes,720,1280,4,2000,8.0,8.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,4500
 1274,Lenovo A1000,Lenovo,A1000,2000,4.0,Yes,480,800,4,1000,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,3549
 1275,Lenovo A6000 Shot,Lenovo,A6000 Shot,2300,5.0,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,5990
@@ -783,7 +771,6 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 1283,Panasonic P65 Flash,Panasonic,P65 Flash,2910,5.5,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,8499
 1284,Panasonic P50 Idol,Panasonic,P50 Idol,2150,5.0,Yes,720,1280,4,1000,8.0,8.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,3899
 78,Samsung Galaxy M30s,Samsung,Galaxy M30s,6000,6.4,Yes,1080,2340,8,4000,64.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,12999
-848,Intex Aqua Note 5.5,Intex,Aqua Note 5.5,2800,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,4390
 1286,iBall Andi 4.5C Magnifico,iBall,Andi 4.5C Magnifico,1700,4.5,Yes,480,854,2,512,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,3840
 1287,Microsoft Lumia 550,Microsoft,Lumia 550,2100,4.7,Yes,720,1280,4,1000,8.0,5.0,2.0,Windows,Yes,Yes,Yes,1,Yes,Yes,5398
 1288,Microsoft Lumia 950,Microsoft,Lumia 950,3000,5.2,Yes,1440,2560,6,3000,32.0,20.0,5.0,Windows,Yes,Yes,Yes,1,Yes,Yes,41390
@@ -870,6 +857,7 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 115,Vivo V9 Pro,Vivo,V9 Pro,3260,6.3,Yes,1080,2280,8,4000,64.0,13.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,16490
 116,Samsung Galaxy A7 (2018),Samsung,Galaxy A7 (2018),3300,6.0,Yes,1080,2220,8,4000,64.0,24.0,24.0,Android,Yes,Yes,Yes,2,No,Yes,16490
 117,Xiaomi Redmi Note 6 Pro,Xiaomi,Redmi Note 6 Pro,4000,6.26,Yes,1080,2280,8,4000,64.0,12.0,20.0,Android,Yes,Yes,Yes,2,Yes,Yes,9580
+1243,Gionee P5W,Gionee,P5W,2000,5.0,Yes,720,1280,8,1000,16.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,No,6999
 1285,ZTE Axon Mini,ZTE,Axon Mini,2800,5.2,Yes,1080,1920,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,1,Yes,Yes,5900
 118,Vivo V11 Pro,Vivo,V11 Pro,3400,6.41,Yes,1080,2340,8,6000,64.0,12.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,14990
 121,Honor 8X,Honor,8X,3750,6.5,Yes,1080,2340,8,4000,64.0,20.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,9999
@@ -1080,6 +1068,7 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 53,Honor 8,Honor,8,3000,5.2,Yes,1080,1920,8,4000,32.0,12.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,20246
 85,Realme 5 Pro,Realme,5 Pro,4035,6.3,Yes,1080,2340,8,4000,64.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,11999
 399,Xolo Black,Xolo,Black,3200,5.5,Yes,1080,1920,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,11936
+402,Yu Yuphoria,Yu,phoria,2230,5.0,Yes,720,1280,4,2000,16.0,8.0,5.0,Cyanogen,Yes,Yes,Yes,2,Yes,Yes,8999
 240,Apple iPhone 5c,Apple,iPhone 5c,1507,4.0,Yes,640,1136,2,1000,8.0,8.0,1.2,iOS,Yes,Yes,Yes,1,Yes,Yes,8499
 241,Xiaomi Mi 3,Xiaomi,Mi 3,3050,5.0,Yes,1080,1920,4,2000,16.0,13.0,2.0,Android,Yes,Yes,Yes,1,Yes,No,13999
 242,Samsung Galaxy Note 3,Samsung,Galaxy Note 3,3200,5.7,Yes,1080,1920,8,3000,32.0,13.0,2.0,Android,Yes,Yes,Yes,1,Yes,Yes,50650
@@ -1095,6 +1084,7 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 253,Motorola One Macro,Motorola,One Macro,4000,6.2,Yes,720,1520,8,4000,64.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,8999
 625,Micromax iOne Note,Micromax,iOne Note,3950,6.09,Yes,720,1560,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,6694
 793,Karbonn K9 Smart Eco,Karbonn,K9 Smart Eco,2300,5.0,Yes,480,854,4,1000,8.0,2.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,2999
+848,Intex Aqua Note 5.5,Intex,Aqua Note 5.5,2800,5.5,Yes,720,1280,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,4390
 1025,Lava A97,Lava,A97,2350,5.0,Yes,480,854,4,1000,8.0,5.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,5500
 1026,Samsung Galaxy On8,Samsung,Galaxy On8,3300,5.5,Yes,1080,1920,8,3000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,7999
 1029,Lava A56,Lava,A56,1850,5.0,Yes,480,854,2,512,4.0,5.0,0.3,Android,Yes,Yes,No,2,No,No,2299
@@ -1215,15 +1205,12 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 1297,Micromax Canvas Play 4G,Micromax,Canvas Play 4G,2820,5.5,Yes,720,1280,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,4499
 1298,Lava Iris Fuel F1 Mini,Lava,Iris Fuel F1 Mini,2000,4.0,Yes,480,800,1,512,8.0,5.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,2499
 1299,Micromax Canvas Blaze 4G,Micromax,Canvas Blaze 4G,2000,4.5,Yes,480,854,4,1000,8.0,5.0,2.0,Android,Yes,Yes,Yes,2,Yes,Yes,3199
-617,Samsung Galaxy Z Flip,Samsung,Galaxy Z Flip,3300,6.7,Yes,1080,2636,8,8000,256.0,12.0,10.0,Android,Yes,Yes,Yes,1,No,No,174990
-651,Samsung Galaxy Fold,Samsung,Galaxy Fold,4380,7.3,Yes,1536,2152,8,12000,512.0,16.0,10.0,Android,Yes,Yes,Yes,2,Yes,Yes,164999
 249,Nokia Lumia 920,Nokia,Lumia 920,2000,4.5,Yes,768,1280,2,1000,32.0,8.7,1.3,Windows,Yes,Yes,Yes,1,Yes,No,8999
 250,Oppo F15,Oppo,F15,4000,6.4,Yes,1080,2400,8,8000,128.0,48.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,18690
 139,Honor 9i,Honor,9i,3340,5.9,Yes,1080,2160,8,4000,64.0,16.0,16.0,Android,Yes,Yes,Yes,2,Yes,Yes,8999
 172,Xiaomi Redmi 4,Xiaomi,Redmi 4,4100,5.0,Yes,720,1280,8,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,8999
 173,Nubia Z11 mini S,Nubia,Z11 mini S,3000,5.2,Yes,1080,1920,8,4000,64.0,23.0,13.0,Android,Yes,Yes,Yes,2,Yes,Yes,16999
 174,Lenovo Z2 Plus,Lenovo,Z2 Plus,3500,5.0,Yes,1080,1920,4,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,11499
-1221,Intex Cloud 3G Candy,Intex,Cloud 3G Candy,1400,4.0,Yes,480,800,1,256,0.512,2.0,0.3,Android,Yes,Yes,Yes,2,Yes,No,1999
 109,Honor 10 Lite,Honor,10 Lite,3400,6.21,Yes,1080,2340,8,3000,32.0,13.0,24.0,Android,Yes,Yes,Yes,2,Yes,Yes,7999
 119,Oppo R17 Pro,Oppo,R17 Pro,3700,6.4,Yes,1080,2340,8,8000,128.0,12.0,25.0,Android,Yes,Yes,Yes,2,Yes,Yes,21299
 120,Nokia 5.1 Plus,Nokia,5.1 Plus,3060,5.86,Yes,720,1520,8,3000,32.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,6999
@@ -1248,7 +1235,6 @@ Unnamed_0,Name,Brand,Model,Battery_capacity_mAh,Screen_size_inches,Touchscreen,R
 1039,Zen Admire Star,Zen,Admire Star,2000,4.5,Yes,480,854,4,512,8.0,5.0,1.3,Android,Yes,Yes,Yes,2,Yes,No,2799
 1040,Samsung Galaxy Folder 2,Samsung,Galaxy Folder 2,1950,3.8,No,480,800,4,2000,16.0,8.0,5.0,Android,Yes,Yes,Yes,1,No,Yes,16990
 472,Samsung Galaxy J2 Core,Samsung,Galaxy J2 Core,2600,5.0,Yes,540,960,4,1000,8.0,8.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,6190
-1340,Panasonic Love T10,Panasonic,Love T10,1400,3.5,Yes,480,800,2,512,4.0,2.0,0.3,Android,Yes,Yes,No,2,Yes,No,2000
 473,10.or D2,10.or,D2,3200,5.45,Yes,720,1440,4,2000,16.0,13.0,5.0,Android,Yes,Yes,Yes,2,Yes,Yes,4999
 474,Coolpad Mega 5A,Coolpad,Mega 5A,2500,5.47,Yes,720,1440,4,2000,16.0,8.0,5.0,Android,Yes,Yes,No,1,No,No,3900
 475,Infinix Smart 2,Infinix,Smart 2,3050,5.45,Yes,720,1440,4,2000,16.0,13.0,8.0,Android,Yes,Yes,Yes,2,Yes,Yes,3999
